@@ -11,3 +11,5 @@ alwaysApply: false
 - You should use Next.js as it works best with Vercel. 
 - This frontend will ultimately be deployed on Vercel, but it should be possible to test locally. 
 - Always provide users with a way to run the created UI once you have created it.
+- Always use Purple as the main color
+- Always use a dark mode with high contrasts. The background should be black and active text should be white
